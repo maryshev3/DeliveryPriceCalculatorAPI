@@ -25,8 +25,6 @@ namespace DeliveryPriceCalculatorAPI.Controllers
             _cdekService = CDEKService;
         }
 
-        static HttpClient client = new HttpClient();
-
         [HttpPost(Name = "CalculatePrice")]
          async public Task<ActionResult<double>> CalculatePrice(PackageDelivery Data)
         {
