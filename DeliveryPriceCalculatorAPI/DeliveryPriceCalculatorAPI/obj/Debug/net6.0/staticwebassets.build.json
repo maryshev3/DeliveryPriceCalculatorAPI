@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NC9KoSYEw9FCNZa9Rg44aevrKJQGDJ8XevlDgs66Un4=",
+  "Source": "DeliveryPriceCalculatorAPI",
+  "BasePath": "_content/DeliveryPriceCalculatorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
